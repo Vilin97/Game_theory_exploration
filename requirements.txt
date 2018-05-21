@@ -1,0 +1,5 @@
+anytree==2.4.3
+ipywidgets==7.1.1
+numpy==1.14.0
+matplotlib==2.1.2
+tqdm
